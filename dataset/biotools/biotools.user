@@ -1,0 +1,547 @@
+user_id:token	name:token
+38738	Phylogenetic tree visualisation
+38739	Genome visualisation
+38740	Query and retrieval
+38741	Sequence alignment
+38742	Dot plot plotting
+38744	Genome analysis
+38745	Genome comparison
+38750	Analysis
+38751	Alignment
+38752	Visualisation
+38760	Database search
+38761	Neurite measurement
+38762	Image annotation
+38769	Network analysis
+38770	Validation
+38771	Expression correlation analysis
+38772	Gene expression profiling
+38777	Essential dynamics
+38778	Molecular dynamics
+38779	Principal component visualisation
+38784	Data retrieval
+38787	Parsing
+38792	Simulation analysis
+38795	Ancestral reconstruction
+38798	Phylogenetic tree editing
+38808	Protein function prediction
+38809	Gene-set enrichment analysis
+38813	Subcellular localisation prediction
+38814	Protein modelling
+38818	Retention time prediction
+38819	Peptide identification
+38820	PTM site prediction
+38821	Deisotoping
+38826	Molecular surface calculation
+38827	Side chain modelling
+38828	Molecular docking
+38833	Virtual screening
+38834	Editing
+38836	Phylogenetic reconstruction
+38837	Sorting
+38838	Phylogenetic tree reconciliation
+38841	Protein feature detection
+38847	Epitope mapping
+38848	Peptide immunogenicity prediction
+38849	Protein identification
+38850	Sequence motif recognition
+38855	Collapsing methods
+38856	Protein interaction prediction
+38859	Quantification
+38860	Image analysis
+38865	Aggregation
+38866	Filtering
+38867	Regression analysis
+38873	miRNA target prediction
+38874	miRNA expression analysis
+38875	Relation extraction
+38879	Incident curve plotting
+38882	Protein signal peptide detection
+38886	Genome annotation
+38891	Phasing
+38892	Genotyping
+38893	Variant calling
+38898	Duplication detection
+38899	k-mer counting
+38900	Indel detection
+38901	Deposition
+38905	Protein structure prediction
+38906	Ligand-binding site prediction
+38914	Transcription factor binding site prediction
+38920	Clustering
+38921	Standardisation and normalisation
+38922	Dendrogram visualisation
+38926	Statistical calculation
+38931	Genetic mapping
+38934	Sequencing quality control
+38935	Phylogenetic analysis
+38937	Sequence trimming
+38938	Base-calling
+38939	Demultiplexing
+38940	Primer removal
+38943	Gene prediction
+38947	Imputation
+38948	Dimensionality reduction
+38950	Differential gene expression profiling
+38951	Splitting
+38957	SNP detection
+38960	Protein structure analysis
+38961	Structure visualisation
+38962	Structure classification
+38963	Sequence visualisation
+38966	Sequence assembly
+38967	Read mapping
+38972	Gene tree construction
+38973	Phylogenetic tree annotation
+38976	Protein secondary structure prediction
+38977	Protein structure validation
+38986	Scaffolding
+38987	Genome assembly
+38992	De-novo assembly
+38995	Pathway analysis
+38996	Gene functional annotation
+38997	Enrichment analysis
+39001	Genetic variation analysis
+39002	Linkage disequilibrium calculation
+39004	Protein fragment weight comparison
+39008	Multilocus sequence typing
+39012	Sample comparison
+39014	Genome alignment
+39015	Pairwise sequence alignment
+39020	Antimicrobial resistance prediction
+39022	Expression profile clustering
+39023	RNA-Seq quantification
+39026	Splicing analysis
+39028	RNA-binding protein prediction
+39033	Residue contact prediction
+39035	Protein disorder prediction
+39036	Protein secondary structure prediction (coils)
+39039	Phylogenetic inference
+39040	Phylogenetic tree comparison
+39041	Phylogenetic tree topology analysis
+39046	Data handling
+39047	Pathway or network analysis
+39050	Peak calling
+39052	Protein-ligand docking
+39053	Protein-protein docking
+39054	Small molecule design
+39055	Hydrogen bond calculation
+39059	PTM localisation
+39062	Sequence feature detection
+39066	Feature extraction
+39069	Network visualisation
+39074	Virulence prediction
+39083	Sequence assembly visualisation
+39085	PCR primer design
+39089	Target-Decoy
+39090	Tag-based peptide identification
+39091	Spectral library search
+39094	Feature selection
+39100	Named-entity and concept recognition
+39103	Protein interaction network analysis
+39105	Alternative splicing prediction
+39106	Sequence merging
+39110	Protein interaction network prediction
+39113	DNA testing
+39116	Modelling and simulation
+39118	Mapping assembly
+39119	de Novo sequencing
+39127	Principal component analysis
+39129	Promoter prediction
+39132	Protein folding analysis
+39134	Gene expression QTL analysis
+39136	Transmembrane protein visualisation
+39137	Transmembrane protein prediction
+39140	Formatting
+39142	Sequence annotation
+39144	Trajectory visualization
+39146	Binding site prediction
+39147	RNA secondary structure prediction
+39151	Loop modelling
+39154	Ontology visualisation
+39155	Ontology comparison
+39163	Indexing
+39167	Mapping
+39175	Statistical inference
+39176	Statistical modelling
+39182	Text mining
+39183	Text annotation
+39185	Repeat sequence analysis
+39188	Gene regulatory network analysis
+39189	Gene methylation analysis
+39192	Spectrum calculation
+39195	Multiple sequence alignment
+39196	Protein secondary structure comparison
+39202	Variant effect prediction
+39203	Structural motif discovery
+39205	Information extraction
+39207	PolyA signal detection
+39209	Haplotype mapping
+39224	Backbone modelling
+39229	Protein property calculation
+39241	Anonymisation
+39246	Network simulation
+39247	Expression profile pathway mapping
+39250	Plasmid map drawing
+39252	Taxonomic classification
+39254	tRNA gene prediction
+39263	RNA structure prediction
+39266	Variant prioritisation
+39267	Variant classification
+39269	Read binning
+39271	Expression analysis
+39272	Protein sequence analysis
+39285	Differential protein expression profiling
+39288	Protein design
+39301	Scatter plot plotting
+39308	Homology-based gene prediction
+39312	Genetic code prediction
+39313	Sequence profile alignment
+39315	DNA-binding protein prediction
+39316	DNA binding site prediction
+39322	Protein-nucleic acid interaction analysis
+39323	Sequence motif discovery
+39336	Sequence motif analysis
+39339	SNP annotation
+39342	Weighted correlation network analysis
+39349	siRNA duplex prediction
+39352	Local alignment
+39353	Genome indexing
+39356	PTM identification
+39358	Methylation calling
+39370	Nucleic acid thermodynamic property calculation
+39371	Nucleic acid structure prediction
+39379	Sequence classification
+39383	Fold recognition
+39390	Structural variation detection
+39391	Split read mapping
+39398	Variant filtering
+39400	Phylogenetic inference (maximum likelihood and Bayesian methods)
+39402	Species tree construction
+39405	Operon prediction
+39412	Recombination detection
+39420	Gene regulatory network prediction
+39425	Peptide database search
+39427	Transcriptome assembly
+39432	Metabolic network modelling
+39440	Pathway visualisation
+39441	Map drawing
+39443	Calculation
+39444	Classification
+39445	Generation
+39453	RNA-Seq analysis
+39456	RNA secondary structure alignment
+39457	RNA structure covariance model generation
+39464	Format detection
+39468	RNA binding site prediction
+39473	DMR identification
+39474	Bisulfite mapping
+39479	Enzyme kinetics calculation
+39483	Annotation
+39487	Comparison
+39489	Scaffold gap completion
+39490	Sequence assembly validation
+39496	Sequence analysis
+39506	DNA transcription
+39511	Expression data visualisation
+39513	Format validation
+39532	Sequence clustering
+39533	Structure clustering
+39538	Copy number variation detection
+39542	Sequence generation
+39550	Ecological modelling
+39563	Service composition
+39588	Transcriptional regulatory element prediction
+39590	Forcefield parameterisation
+39600	Spectral analysis
+39602	Protein-protein binding site prediction
+39631	Protein-protein interaction analysis
+39654	Protein secondary structure assignment
+39657	Single particle alignment and classification
+39659	Label-free quantification
+39660	Labeled quantification
+39663	Sequence similarity search
+39664	Sequence database search
+39673	Nucleic acid stitch profile plotting
+39674	Nucleic acid melting curve plotting
+39675	Document clustering
+39681	Tree dating
+39712	Coding region prediction
+39728	Service discovery
+39730	Primer and probe design
+39738	Cell migration analysis
+39740	S/MAR prediction
+39749	Heat map generation
+39750	Physical mapping
+39755	Protein solubility prediction
+39762	Molecular model refinement
+39766	Natural product identification
+39780	Transposon prediction
+39785	Splice site prediction
+39786	Exonic splicing enhancer prediction
+39788	Nucleic acid structure comparison
+39789	RNA inverse folding
+39792	Sequence alignment editing
+39797	Residue distance calculation
+39814	Sequencing error detection
+39828	Phylogenetic inference (parsimony methods)
+39843	Sequence cluster visualisation
+39852	Adhesin prediction
+39866	DNA barcoding
+39868	Chimera detection
+39880	Nucleic acid design
+39883	Literature search
+39905	Prediction and recognition
+39907	Pathway or network prediction
+39908	Pathway or network comparison
+39916	Structure analysis
+39937	Consensus tree construction
+39951	Read pre-processing
+39954	Structure alignment
+39963	Free cysteine detection
+39980	RNA-seq time series data analysis
+39985	Reverse complement
+39999	Protein cleavage site prediction
+40008	Single particle analysis
+40013	Amplification detection
+40023	Sequence alignment validation
+40031	Allele frequency distribution analysis
+40054	Whole genome methylation analysis
+40062	cis-regulatory element prediction
+40091	Microscope image visualisation
+40096	Metal-binding site prediction
+40097	Nucleic acids-binding site prediction
+40122	Nucleic acid feature detection
+40147	Sequence comparison
+40148	Sequence motif comparison
+40165	Diffraction data integration
+40168	Deletion detection
+40181	Protein architecture analysis
+40183	Restriction digest
+40188	Global alignment
+40204	Optimisation and refinement
+40212	Pathway or network visualisation
+40215	Dimethyl
+40217	Nucleic acid property calculation
+40230	Methylation analysis
+40231	DNA profiling
+40236	Information retrieval
+40249	Protein dipole moment calculation
+40250	Protein structure assignment
+40289	Phylogenetic footprinting
+40301	Clustering profile plotting
+40302	RNA-seq read count analysis
+40306	MRM/SRM
+40308	Probabilistic sequence generation
+40322	Metabolic pathway prediction
+40330	Sequence profile generation
+40343	Metabolic labeling
+40353	Contact map calculation
+40410	Protein molecular weight calculation
+40411	Database comparison
+40455	Expression profile comparison
+40458	Protein hydrophobic moment plotting
+40462	Protein globularity prediction
+40468	Ab initio structure prediction
+40482	Sequence masking
+40538	Repeat sequence detection
+40542	Pairwise structure alignment
+40550	Protein peeling
+40553	Protein geometry calculation
+40578	Peak detection
+40599	Sequence composition calculation
+40608	Protein function analysis
+40616	Nucleic acid sequence analysis
+40643	Functional clustering
+40653	DNA translation
+40656	Protein hydropathy calculation
+40662	Sequence alignment conversion
+40666	CpG island and isochore detection
+40670	Sequence checksum generation
+40746	Protein threading
+40762	Service invocation
+40767	Linkage analysis
+40779	Proximity map plotting
+40781	EST assembly
+40812	Isotope-coded protein label
+40813	SILAC
+40851	Box-Whisker plot plotting
+40867	Mass spectrum visualisation
+40957	Rarefaction
+40997	Virtual PCR
+41044	DNA vaccine design
+41047	Ion counting
+41074	Multiple structure alignment
+41075	Global structure alignment
+41080	Bibliography generation
+41127	Sequence editing
+41133	Sequence contamination filtering
+41145	Protein quantification
+41189	iTRAQ
+41220	Nucleosome position prediction
+41239	Phylogenetic sub/super tree construction
+41246	Copy number estimation
+41278	Molecular replacement
+41283	Repeat sequence organisation analysis
+41298	Sequence tag mapping
+41335	ID mapping
+41338	Protein comparison
+41375	Restriction map drawing
+41384	Molecular surface analysis
+41386	Structure comparison
+41391	Vector sequence detection
+41398	Design
+41410	Transmembrane protein analysis
+41415	Accessible surface calculation
+41430	Protein secondary structure prediction (turns)
+41431	Protein secondary structure prediction (helices)
+41454	Protein property comparison
+41458	Structural similarity search
+41469	Structure prediction
+41545	Chemical similarity enrichment
+41562	Quadruplex formation site detection
+41563	Nucleic acid folding analysis
+41576	Protein structure comparison
+41586	DNA substitution modelling
+41605	Codon usage table generation
+41650	Nucleic acid temperature profile plotting
+41672	Treemap visualisation
+41681	Protein-metal contact calculation
+41792	trans-regulatory element prediction
+41799	Protein quaternary structure prediction
+41838	Tree-based sequence alignment
+41883	Chromatographic alignment
+41893	Mass spectra calibration
+41927	Blind peptide database search
+41928	Validation of peptide-spectrum matches
+41936	Simulated gene expression data generation
+41938	Salt bridge calculation
+41942	Sequence alignment analysis (conservation)
+41943	Active site prediction
+41948	Conversion
+41956	Protein hydrophobic region calculation
+42002	Service management
+42006	Protein isoelectric point calculation
+42022	Structure editing
+42092	Protein super-secondary structure prediction
+42095	Protein architecture recognition
+42137	Sequence conversion
+42231	In vitro selection
+42265	Sequence distance matrix generation
+42267	TMT-tag
+42329	Phylogenetic inference (from polymorphism data)
+42372	3D profile generation
+42465	Surface rendering
+42469	Gene set testing
+42480	Polymorphism detection
+42490	Structure database search
+42491	Residue interaction calculation
+42500	Operon drawing
+42505	Codon usage bias calculation
+42513	Variant pattern analysis
+42569	siRNA binding specificity prediction
+42576	Protein cysteine and disulfide bond assignment
+42633	Phylogenetic inference (from molecular sequences)
+42636	Sequence alignment analysis
+42670	Metal-bound cysteine detection
+42685	Protein geometry validation
+42722	Topology diagram drawing
+42826	Reference identification
+42863	Protein hydrogen exchange rate calculation
+42898	Frameshift detection
+43063	Phylogenetic tree bootstrapping
+43191	Codon usage table comparison
+43192	Codon usage fraction calculation
+43206	Microarray probe design
+43293	Rigid body refinement
+43316	Codon usage analysis
+43379	Operation
+43454	Phylogenetic inference (minimum distance methods)
+43463	DNA mapping
+43539	Sequence alignment comparison
+43592	Multiple sample visualisation
+43757	Localised reassembly
+43817	Molecular surface comparison
+43940	Residue bump detection
+44092	DNA structure prediction
+44104	Diffraction data reduction
+44110	3D-1D scoring matrix generation
+44119	Sequence feature comparison
+44151	Protein domain recognition
+44186	Nucleic acid structure analysis
+44271	Complex CNV detection
+44285	Nucleic acid comparison
+44334	Isotopic distributions calculation
+44498	Phylogenetic inference (quartet methods)
+44541	Spectral counting
+44664	Read summarisation
+44688	Nucleic acid curvature calculation
+45010	Residue cluster calculation
+45021	Restriction site recognition
+45036	Protein pKa calculation
+45081	Local structure alignment
+45228	Phylogenetic inference (method centric)
+45240	Protein crystallizability prediction
+45331	Chromatogram visualisation
+45434	Disulfide bond prediction
+45462	Species frequency estimation
+45905	Translation initiation site prediction
+45932	Sequence database search (by property)
+46076	Protein architecture comparison
+46090	Protein sequence cleavage
+46164	Document similarity calculation
+46351	Sequence alignment refinement
+46356	Random sequence generation
+46452	Sequence coordinate conversion
+46469	Differential binding analysis
+46481	Phylogenetic tree distances calculation
+46498	Sequence alignment analysis (site correlation)
+46514	Sequence mutation and randomisation
+46691	Protein extinction coefficient calculation
+46929	Nucleic acid probability profile plotting
+46931	Sequence tagged site (STS) mapping
+47157	Sequence file editing
+47280	RNA secondary structure analysis
+47471	Phylogenetic inference (from gene frequencies)
+47527	Ab-initio gene prediction
+47579	Read depth analysis
+47646	Diffraction data analysis
+47768	Correlation
+47802	Sequence cutting
+47942	Protein secondary structure analysis
+48074	Plotting
+48140	Probabilistic data generation
+48484	Cysteine bridge detection
+48722	Structure-based sequence alignment
+49273	Protein titration curve plotting
+49552	Article comparison
+49861	Sequence redundancy removal
+50157	Genome feature comparison
+50760	Sequence complexity calculation
+52500	Exome assembly
+52823	Helical wheel drawing
+53075	Residue packing validation
+53171	Chemical redundancy removal
+53560	Cross-assembly
+55748	Representative sequence identification
+55833	Sequence word comparison
+56162	Nucleic acid density plotting
+56282	Protein function comparison
+57670	GPCR prediction
+57708	Prediction and recognition (protein)
+57709	Prediction and recognition (nucleic acid)
+57856	18O labeling
+57877	Protein aliphatic index calculation
+58088	Protein hydropathy calculation (from sequence)
+58091	Dendrograph plotting
+58100	Protein distance matrix calculation
+58487	Base position variability plotting
+58570	Sequence ambiguity calculation
+61056	Protein analysis
+62289	Codon usage bias plotting
+63466	SECIS element prediction
+64236	Nucleic acid melting profile plotting
+64760	Radiation Hybrid Mapping
+65135	Phylogenetic inference (data centric)
+66926	Sequence generation (protein)
+67028	Sequence generation (nucleic acid)
