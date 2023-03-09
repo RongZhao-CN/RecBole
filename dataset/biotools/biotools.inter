@@ -1,4 +1,4 @@
-user_id:token  item_id:token  rating:float
+user_id:token	item_id:token	rating:float
 119055	127777	1
 118495	127777	1
 118611	127777	1
