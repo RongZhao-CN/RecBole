@@ -10,6 +10,6 @@ beta: 0.1                       # (float) The contrastive loss weight.
 k: 10                           # (int) The topk parameter used in building a k-NN item-item semantic graph.
 lambda_coeff: 0.5               # (float) The coefficient when updating k-NN item-item semantic graph.
 temperature: 0.8                # (float) The temperature parameter used in loss calculation.
-build_graph_separately: True    # (bool) Whether user a separate GCN to build item-item graph.
+build_graph_separately: False    # (bool) Whether user a separate GCN to build item-item graph.
 loss_type: 'BPR'                # (str, optional) The loss type used in this model.
 metrics: ['Recall', 'MRR', 'NDCG', 'Hit', 'Precision']
