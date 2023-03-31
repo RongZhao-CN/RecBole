@@ -288,7 +288,7 @@ class GraphConv(nn.Module):
         return item_adj
 
 
-class MCLKR(KnowledgeRecommender):
+class MCKR(KnowledgeRecommender):
     r"""MCCLK is a knowledge-based recommendation model.
     It focuses on the contrastive learning in KG-aware recommendation and proposes a novel multi-level cross-view
     contrastive learning mechanism. This model comprehensively considers three different graph views for KG-aware
@@ -300,7 +300,7 @@ class MCLKR(KnowledgeRecommender):
     input_type = InputType.PAIRWISE
 
     def __init__(self, config, dataset):
-        super(MCLKR, self).__init__(config, dataset)
+        super(MCKR, self).__init__(config, dataset)
 
         # load parameters info
         self.embedding_size = config["embedding_size"]
