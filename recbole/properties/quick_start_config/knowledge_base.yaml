@@ -1,8 +1,12 @@
+additional_feat_suffix: [useremb]
 load_col: 
     inter: ['user_id', 'item_id', 'rating', 'timestamp']
     kg: ['head_id', 'relation_id', 'tail_id']
     link: ['item_id', 'entity_id']
-
+    useremb: ['uid','user_emb']
+alias_of_user_id: [uid]
+preload_weight:
+    uid: user_emb
 # Data preprocessing for knowledge graph triples
 kg_reverse_r: False                     # (bool) Whether to reverse relations of triples for bidirectional edges.
 entity_kg_num_interval: "[0,inf)"       # (str) Entity interval for filtering kg.

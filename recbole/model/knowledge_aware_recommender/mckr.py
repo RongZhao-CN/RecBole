@@ -129,7 +129,7 @@ class GraphConv(nn.Module):
         # User a separate GCN to build item-item graph
         if self.build_graph_separately:
             r"""
-            In the original author's implementation(https://github.com/CCIIPLab/MCCLK), the process of constructing
+            In the original author's implementation(https://github.com/CCIIPLab/MCKR), the process of constructing
             k-Nearest-Neighbor item-item semantic graph(section 4.1 in paper) and encoding structural view(section 4.3.1 in paper)
             are combined. This implementation improves the computational efficiency, but is slightly different from the
             model structure described in the paper. We use the parameter `build_graph_separately` to control whether to
@@ -289,7 +289,7 @@ class GraphConv(nn.Module):
 
 
 class MCKR(KnowledgeRecommender):
-    r"""MCCLK is a knowledge-based recommendation model.
+    r"""MCKR is a knowledge-based recommendation model.
     It focuses on the contrastive learning in KG-aware recommendation and proposes a novel multi-level cross-view
     contrastive learning mechanism. This model comprehensively considers three different graph views for KG-aware
     recommendation, including global-level structural view, local-level collaborative and semantic views. It hence
@@ -325,7 +325,8 @@ class MCKR(KnowledgeRecommender):
         self.edge_index, self.edge_type = self.get_edges(self.kg_graph)
 
         # define layers
-        self.user_embedding = nn.Embedding(self.n_users, self.embedding_size)
+        pretained_user_emb=dataset.get_preload_weight('uid')
+        self.user_embedding = nn.Embedding.from_pretrained(torch.from_numpy(pretained_user_emb))
         self.entity_embedding = nn.Embedding(self.n_entities, self.embedding_size)
         self.gcn = GraphConv(
             config=config,
